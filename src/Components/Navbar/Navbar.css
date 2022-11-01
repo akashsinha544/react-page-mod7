@@ -1,0 +1,90 @@
+.main{
+    display: grid;
+    grid-template-columns: 200px 726px 529px;
+    width: 1400px;
+    align-items: center;
+}
+
+.div1{
+
+    margin-left: 10px;
+
+}
+
+
+ h3{
+
+    width: 116px;
+    height: 32px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #252B42;
+    padding-left: 28px;
+    cursor: pointer;
+}
+
+
+.div2 ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    bottom: 0%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #737373;
+    cursor: pointer;
+ 
+}
+
+.div3{ 
+
+    margin-left: 115px;
+
+}
+
+.cartcount{
+display: flex;
+gap: 5px;
+}
+
+.div3 ul{
+    width: 119px;
+    height: 24px;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    cursor: pointer;
+}
+
+
+
+.reg {
+    display: flex;
+}
+
+
+
+.myClass{
+    margin-top: -2px;
+}
+
+
